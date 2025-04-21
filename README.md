@@ -1,8 +1,3 @@
-Sure! Here's a `README.md` file tailored for your personal portfolio website project:
-
----
-
-```markdown
 # Khalid Elabd | Front-End Developer Portfolio
 
 Welcome to my personal portfolio website! This is a fully responsive portfolio built using **HTML**, **CSS**, and **JavaScript**, designed to showcase my skills, projects, and ways to get in touch with me.
